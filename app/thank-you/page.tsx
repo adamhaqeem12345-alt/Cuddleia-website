@@ -60,12 +60,12 @@ export default function ThankYouPage() {
 
           {/* Next Steps */}
           <div className="bg-primary-50 rounded-lg p-6 mb-8 border border-primary-200 text-left">
-            <h2 className="font-bold text-gray-900 mb-4">What's Next?</h2>
+            <h2 className="font-bold text-gray-900 mb-4">What&apos;s Next?</h2>
             <ul className="space-y-3 text-gray-700">
               <li className="flex items-start">
                 <span className="text-primary-500 mr-3 font-bold">1.</span>
                 <span>
-                  You'll receive a confirmation email with your order details and
+                  You&apos;ll receive a confirmation email with your order details and
                   tracking information
                 </span>
               </li>
@@ -108,7 +108,7 @@ export default function ThankYouPage() {
           {/* Help Section */}
           <div className="mt-12 pt-8 border-t border-gray-200 text-sm text-gray-600">
             <p className="mb-4">
-              Questions? We're here to help!
+              Questions? We&apos;re here to help!
             </p>
             <div className="flex flex-col sm:flex-row justify-center gap-4 text-primary-500 font-semibold">
               <a href="#" className="hover:text-primary-600">
