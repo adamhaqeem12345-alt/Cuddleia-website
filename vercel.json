@@ -1,0 +1,12 @@
+{
+  "buildCommand": "next build",
+  "outputDirectory": ".next",
+  "functions": {
+    "api/**/*": {
+      "runtime": "nodejs18.x"
+    },
+    "app/api/**/*": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
